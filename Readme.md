@@ -37,10 +37,6 @@ Get details of users by typing their name on searchbox.
 
 <hr>
 
-# Steps to submit your assignments
 
-- Complete the assignments listed above in respective folders.
-- Push the assignments.
-- Add the link in ```./../README.md``` 
 
 
