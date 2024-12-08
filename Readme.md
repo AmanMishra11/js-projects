@@ -6,7 +6,7 @@
 
 Get details of users by typing their name on searchbox.
 
-![](./image/github_finder.png)
+
 
 <hr>
 
