@@ -22,11 +22,11 @@ Get details of users by typing their name on searchbox.
 
 ## 3. Meal finder 
 
-
+<a href="https://amanmishra11.github.io/js-projects/find_food/food.html">Visit</a>
 
 ![](./image/meal-finder.png)
 
-<a href="https://amanmishra11.github.io/js-projects/find_food/food.html">Visit</a>
+
 
 <hr>
 
