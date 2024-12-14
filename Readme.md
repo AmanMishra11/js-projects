@@ -41,7 +41,7 @@ Get details of users by typing their name on searchbox.
 
 <hr>
 
-## 4. Emoji Finder
+## 5. Emoji Finder
 
 
 <a href="https://amanmishra11.github.io/js-projects/emoji/">Visit</a>
@@ -51,7 +51,7 @@ Get details of users by typing their name on searchbox.
 
 <hr>
 
-## 4. Find weight relative to each Planet of our Solar System
+## 6. Find weight relative to each Planet of our Solar System
 
 
 <a href="https://amanmishra11.github.io/js-projects/solar_system/">Visit</a>
